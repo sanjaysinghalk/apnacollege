@@ -1,2 +1,2 @@
 # apnacollege
-this is my first repositery
+this is my first git repositery
